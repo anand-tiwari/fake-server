@@ -1,0 +1,2075 @@
+{
+    "flights": [{
+            "origin": "FRA",
+            "destination": "FCO",
+            "departureDate": "2022-10-22",
+            "returnDate": "2022-10-22",
+            "seatAvailability": "3",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "11:45",
+                "type": "AM"
+            },
+            "duration": "03:25h",
+            "stop": "1 stop via CGN"
+        },
+        {
+            "origin": "FCO",
+            "destination": "FRA",
+            "departureDate": "2022-10-22",
+            "returnDate": "2022-10-22",
+            "seatAvailability": "3",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "11:45",
+                "type": "AM"
+            },
+            "duration": "03:25h",
+            "stop": "1 stop via CGN"
+        },
+        {
+            "origin": "FRA",
+            "destination": "FCO",
+            "departureDate": "2022-10-23",
+            "returnDate": "2022-10-23",
+            "seatAvailability": "6",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "1:25",
+                "type": "PM"
+            },
+            "duration": "05:05h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "FCO",
+            "destination": "FRA",
+            "departureDate": "2022-10-23",
+            "returnDate": "2022-10-23",
+            "seatAvailability": "6",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "1:25",
+                "type": "PM"
+            },
+            "duration": "05:05h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "FRA",
+            "destination": "FCO",
+            "departureDate": "2022-10-24",
+            "returnDate": "2022-10-24",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "FCO",
+            "destination": "FRA",
+            "departureDate": "2022-10-24",
+            "returnDate": "2022-10-24",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "FRA",
+            "destination": "FCO",
+            "departureDate": "2022-10-25",
+            "returnDate": "2022-10-25",
+            "seatAvailability": "3",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "11:45",
+                "type": "AM"
+            },
+            "duration": "03:25h",
+            "stop": "1 stop via CGN"
+        },
+        {
+            "origin": "FCO",
+            "destination": "FRA",
+            "departureDate": "2022-10-25",
+            "returnDate": "2022-10-25",
+            "seatAvailability": "3",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "11:45",
+                "type": "AM"
+            },
+            "duration": "03:25h",
+            "stop": "1 stop via CGN"
+        },
+        {
+            "origin": "FRA",
+            "destination": "FCO",
+            "departureDate": "2022-10-26",
+            "returnDate": "2022-10-26",
+            "seatAvailability": "6",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "1:25",
+                "type": "PM"
+            },
+            "duration": "05:05h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "FCO",
+            "destination": "FRA",
+            "departureDate": "2022-10-26",
+            "returnDate": "2022-10-26",
+            "seatAvailability": "6",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "1:25",
+                "type": "PM"
+            },
+            "duration": "05:05h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "FRA",
+            "destination": "FCO",
+            "departureDate": "2022-10-27",
+            "returnDate": "2022-10-27",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "FCO",
+            "destination": "FRA",
+            "departureDate": "2022-10-27",
+            "returnDate": "2022-10-27",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "FRA",
+            "destination": "FCO",
+            "departureDate": "2022-10-28",
+            "returnDate": "2022-10-28",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "FCO",
+            "destination": "FRA",
+            "departureDate": "2022-10-28",
+            "returnDate": "2022-10-28",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "FRA",
+            "destination": "FCO",
+            "departureDate": "2022-10-29",
+            "returnDate": "2022-10-29",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "FCO",
+            "destination": "FRA",
+            "departureDate": "2022-10-29",
+            "returnDate": "2022-10-29",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "FRA",
+            "destination": "FCO",
+            "departureDate": "2022-10-30",
+            "returnDate": "2022-10-30",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "FCO",
+            "destination": "FRA",
+            "departureDate": "2022-10-30",
+            "returnDate": "2022-10-30",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "FRA",
+            "destination": "FCO",
+            "departureDate": "2022-10-31",
+            "returnDate": "2022-10-31",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "FCO",
+            "destination": "FRA",
+            "departureDate": "2022-10-31",
+            "returnDate": "2022-10-31",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "FRA",
+            "destination": "FCO",
+            "departureDate": "2022-11-01",
+            "returnDate": "2022-11-01",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "FCO",
+            "destination": "FRA",
+            "departureDate": "2022-11-01",
+            "returnDate": "2022-11-01",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "FRA",
+            "destination": "FCO",
+            "departureDate": "2022-11-02",
+            "returnDate": "2022-11-02",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "FCO",
+            "destination": "FRA",
+            "departureDate": "2022-11-02",
+            "returnDate": "2022-11-02",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "FRA",
+            "destination": "FCO",
+            "departureDate": "2022-11-03",
+            "returnDate": "2022-11-03",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "FCO",
+            "destination": "FRA",
+            "departureDate": "2022-11-03",
+            "returnDate": "2022-11-03",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "FRA",
+            "destination": "FCO",
+            "departureDate": "2022-11-04",
+            "returnDate": "2022-11-04",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "FCO",
+            "destination": "FRA",
+            "departureDate": "2022-11-04",
+            "returnDate": "2022-11-04",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "FRA",
+            "destination": "FCO",
+            "departureDate": "2022-11-05",
+            "returnDate": "2022-11-05",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "FCO",
+            "destination": "FRA",
+            "departureDate": "2022-11-05",
+            "returnDate": "2022-11-05",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+
+        {
+            "origin": "AGE",
+            "destination": "HHN",
+            "departureDate": "2022-10-01",
+            "returnDate": "2022-10-01",
+            "seatAvailability": "3",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "11:45",
+                "type": "AM"
+            },
+            "duration": "03:25h",
+            "stop": "1 stop via CGN"
+        },
+        {
+            "origin": "HHN",
+            "destination": "AGE",
+            "departureDate": "2022-10-01",
+            "returnDate": "2022-10-01",
+            "seatAvailability": "3",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "11:45",
+                "type": "AM"
+            },
+            "duration": "03:25h",
+            "stop": "1 stop via CGN"
+        },
+        {
+            "origin": "AGE",
+            "destination": "HHN",
+            "departureDate": "2022-10-23",
+            "returnDate": "2022-10-23",
+            "seatAvailability": "6",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "1:25",
+                "type": "PM"
+            },
+            "duration": "05:05h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "HHN",
+            "destination": "AGE",
+            "departureDate": "2022-10-23",
+            "returnDate": "2022-10-23",
+            "seatAvailability": "6",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "1:25",
+                "type": "PM"
+            },
+            "duration": "05:05h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "AGE",
+            "destination": "HHN",
+            "departureDate": "2022-10-24",
+            "returnDate": "2022-10-24",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "HHN",
+            "destination": "AGE",
+            "departureDate": "2022-10-24",
+            "returnDate": "2022-10-24",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "AGE",
+            "destination": "HHN",
+            "departureDate": "2022-10-25",
+            "returnDate": "2022-10-25",
+            "seatAvailability": "3",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "11:45",
+                "type": "AM"
+            },
+            "duration": "03:25h",
+            "stop": "1 stop via CGN"
+        },
+        {
+            "origin": "HHN",
+            "destination": "AGE",
+            "departureDate": "2022-10-25",
+            "returnDate": "2022-10-25",
+            "seatAvailability": "3",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "11:45",
+                "type": "AM"
+            },
+            "duration": "03:25h",
+            "stop": "1 stop via CGN"
+        },
+        {
+            "origin": "AGE",
+            "destination": "HHN",
+            "departureDate": "2022-10-26",
+            "returnDate": "2022-10-26",
+            "seatAvailability": "6",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "1:25",
+                "type": "PM"
+            },
+            "duration": "05:05h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "HHN",
+            "destination": "AGE",
+            "departureDate": "2022-10-26",
+            "returnDate": "2022-10-26",
+            "seatAvailability": "6",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "1:25",
+                "type": "PM"
+            },
+            "duration": "05:05h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "AGE",
+            "destination": "HHN",
+            "departureDate": "2022-10-27",
+            "returnDate": "2022-10-27",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "HHN",
+            "destination": "AGE",
+            "departureDate": "2022-10-27",
+            "returnDate": "2022-10-27",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "AGE",
+            "destination": "HHN",
+            "departureDate": "2022-10-28",
+            "returnDate": "2022-10-28",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "HHN",
+            "destination": "AGE",
+            "departureDate": "2022-10-28",
+            "returnDate": "2022-10-28",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "AGE",
+            "destination": "HHN",
+            "departureDate": "2022-10-29",
+            "returnDate": "2022-10-29",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "HHN",
+            "destination": "AGE",
+            "departureDate": "2022-10-29",
+            "returnDate": "2022-10-29",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "AGE",
+            "destination": "HHN",
+            "departureDate": "2022-10-30",
+            "returnDate": "2022-10-30",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "HHN",
+            "destination": "AGE",
+            "departureDate": "2022-10-30",
+            "returnDate": "2022-10-30",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "AGE",
+            "destination": "HHN",
+            "departureDate": "2022-10-31",
+            "returnDate": "2022-10-31",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "HHN",
+            "destination": "AGE",
+            "departureDate": "2022-10-31",
+            "returnDate": "2022-10-31",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "AGE",
+            "destination": "HHN",
+            "departureDate": "2022-11-01",
+            "returnDate": "2022-11-01",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "HHN",
+            "destination": "AGE",
+            "departureDate": "2022-11-01",
+            "returnDate": "2022-11-01",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "AGE",
+            "destination": "HHN",
+            "departureDate": "2022-11-02",
+            "returnDate": "2022-11-02",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "HHN",
+            "destination": "AGE",
+            "departureDate": "2022-11-02",
+            "returnDate": "2022-11-02",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "AGE",
+            "destination": "HHN",
+            "departureDate": "2022-11-03",
+            "returnDate": "2022-11-03",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "HHN",
+            "destination": "AGE",
+            "departureDate": "2022-11-03",
+            "returnDate": "2022-11-03",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "AGE",
+            "destination": "HHN",
+            "departureDate": "2022-11-04",
+            "returnDate": "2022-11-04",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "HHN",
+            "destination": "AGE",
+            "departureDate": "2022-11-04",
+            "returnDate": "2022-11-04",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "AGE",
+            "destination": "HHN",
+            "departureDate": "2022-11-05",
+            "returnDate": "2022-11-05",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "HHN",
+            "destination": "AGE",
+            "departureDate": "2022-11-05",
+            "returnDate": "2022-11-05",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+
+        {
+            "origin": "FDH",
+            "destination": "FRZ",
+            "departureDate": "2022-10-01",
+            "returnDate": "2022-10-01",
+            "seatAvailability": "3",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "11:45",
+                "type": "AM"
+            },
+            "duration": "03:25h",
+            "stop": "1 stop via CGN"
+        },
+        {
+            "origin": "FRZ",
+            "destination": "FDH",
+            "departureDate": "2022-10-01",
+            "returnDate": "2022-10-01",
+            "seatAvailability": "3",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "11:45",
+                "type": "AM"
+            },
+            "duration": "03:25h",
+            "stop": "1 stop via CGN"
+        },
+        {
+            "origin": "FDH",
+            "destination": "FRZ",
+            "departureDate": "2022-10-23",
+            "returnDate": "2022-10-23",
+            "seatAvailability": "6",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "1:25",
+                "type": "PM"
+            },
+            "duration": "05:05h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "FRZ",
+            "destination": "FDH",
+            "departureDate": "2022-10-23",
+            "returnDate": "2022-10-23",
+            "seatAvailability": "6",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "1:25",
+                "type": "PM"
+            },
+            "duration": "05:05h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "FDH",
+            "destination": "FRZ",
+            "departureDate": "2022-10-24",
+            "returnDate": "2022-10-24",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "FRZ",
+            "destination": "FDH",
+            "departureDate": "2022-10-24",
+            "returnDate": "2022-10-24",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "FDH",
+            "destination": "FRZ",
+            "departureDate": "2022-10-25",
+            "returnDate": "2022-10-25",
+            "seatAvailability": "3",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "11:45",
+                "type": "AM"
+            },
+            "duration": "03:25h",
+            "stop": "1 stop via CGN"
+        },
+        {
+            "origin": "FRZ",
+            "destination": "FDH",
+            "departureDate": "2022-10-25",
+            "returnDate": "2022-10-25",
+            "seatAvailability": "3",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "11:45",
+                "type": "AM"
+            },
+            "duration": "03:25h",
+            "stop": "1 stop via CGN"
+        },
+        {
+            "origin": "FDH",
+            "destination": "FRZ",
+            "departureDate": "2022-10-26",
+            "returnDate": "2022-10-26",
+            "seatAvailability": "6",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "1:25",
+                "type": "PM"
+            },
+            "duration": "05:05h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "FRZ",
+            "destination": "FDH",
+            "departureDate": "2022-10-26",
+            "returnDate": "2022-10-26",
+            "seatAvailability": "6",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "1:25",
+                "type": "PM"
+            },
+            "duration": "05:05h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "FDH",
+            "destination": "FRZ",
+            "departureDate": "2022-10-27",
+            "returnDate": "2022-10-27",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "FRZ",
+            "destination": "FDH",
+            "departureDate": "2022-10-27",
+            "returnDate": "2022-10-27",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "FDH",
+            "destination": "FRZ",
+            "departureDate": "2022-10-28",
+            "returnDate": "2022-10-28",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "FRZ",
+            "destination": "FDH",
+            "departureDate": "2022-10-28",
+            "returnDate": "2022-10-28",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "FDH",
+            "destination": "FRZ",
+            "departureDate": "2022-10-29",
+            "returnDate": "2022-10-29",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "FRZ",
+            "destination": "FDH",
+            "departureDate": "2022-10-29",
+            "returnDate": "2022-10-29",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "FDH",
+            "destination": "FRZ",
+            "departureDate": "2022-10-30",
+            "returnDate": "2022-10-30",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "FRZ",
+            "destination": "FDH",
+            "departureDate": "2022-10-30",
+            "returnDate": "2022-10-30",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "FDH",
+            "destination": "FRZ",
+            "departureDate": "2022-10-31",
+            "returnDate": "2022-10-31",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "FRZ",
+            "destination": "FDH",
+            "departureDate": "2022-10-31",
+            "returnDate": "2022-10-31",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "FDH",
+            "destination": "FRZ",
+            "departureDate": "2022-11-01",
+            "returnDate": "2022-11-01",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "FRZ",
+            "destination": "FDH",
+            "departureDate": "2022-11-01",
+            "returnDate": "2022-11-01",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "FDH",
+            "destination": "FRZ",
+            "departureDate": "2022-11-02",
+            "returnDate": "2022-11-02",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "FRZ",
+            "destination": "FDH",
+            "departureDate": "2022-11-02",
+            "returnDate": "2022-11-02",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "FDH",
+            "destination": "FRZ",
+            "departureDate": "2022-11-03",
+            "returnDate": "2022-11-03",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "FRZ",
+            "destination": "FDH",
+            "departureDate": "2022-11-03",
+            "returnDate": "2022-11-03",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "FDH",
+            "destination": "FRZ",
+            "departureDate": "2022-11-04",
+            "returnDate": "2022-11-04",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "FRZ",
+            "destination": "FDH",
+            "departureDate": "2022-11-04",
+            "returnDate": "2022-11-04",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "FDH",
+            "destination": "FRZ",
+            "departureDate": "2022-11-05",
+            "returnDate": "2022-11-05",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        },
+        {
+            "origin": "FRZ",
+            "destination": "FDH",
+            "departureDate": "2022-11-05",
+            "returnDate": "2022-11-05",
+            "seatAvailability": "7",
+            "price": {
+                "amount": "128.26",
+                "currency": "EUR"
+            },
+            "offerType": "BestPrice",
+            "uuid": "SA00003-b790715d-b2b8-4d23-ac27-d4e88c0e84af",
+            "startTime": {
+                "time": "8:20",
+                "type": "AM"
+            },
+            "destinationTime": {
+                "time": "3:35",
+                "type": "PM"
+            },
+            "duration": "07:15h",
+            "stop": "1 stop via STR"
+        }
+    ]
+}
