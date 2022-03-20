@@ -1,6 +1,7 @@
 {
     "tabs-data":{
         "data":{
+            "isAllPluginEnabled": true,
             "tabs":[
                 "tab1",
                 "tab2",
