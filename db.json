@@ -1,6 +1,6 @@
 {
     "sql": [{
-            "query": "query1",
+            "id": "query1",
             "data": [{
                     "id": 1,
                     "name": "AlvinSatterfield",
@@ -104,7 +104,7 @@
             ]
         },
         {
-            "query": "select * from student where id = 1;",
+            "id": "query2",
             "data": [{
                     "id": 1,
                     "name": "AlvinSatterfield",
@@ -208,7 +208,7 @@
             ]
         },
         {
-            "query": "select * from student where id = 2;",
+            "id": "query3",
             "data": [{
                     "id": 1,
                     "name": "AlvinSatterfield",
@@ -312,7 +312,7 @@
             ]
         },
         {
-            "query": "select * from student where id = 3;",
+            "id": "query4",
             "data": [{
                     "id": 1,
                     "name": "AlvinSatterfield",
