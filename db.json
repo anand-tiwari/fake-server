@@ -1,6 +1,6 @@
 {
     "sql": [{
-            "id": "query1",
+            "query": "query1",
             "data": [{
                     "id": 1,
                     "name": "AlvinSatterfield",
@@ -104,7 +104,7 @@
             ]
         },
         {
-            "id": "query2",
+            "query": "query2",
             "data": [{
                     "id": 1,
                     "name": "AlvinSatterfield",
@@ -208,7 +208,7 @@
             ]
         },
         {
-            "id": "query3",
+            "query": "query3",
             "data": [{
                     "id": 1,
                     "name": "AlvinSatterfield",
@@ -312,7 +312,7 @@
             ]
         },
         {
-            "id": "query4",
+            "query": "query4",
             "data": [{
                     "id": 1,
                     "name": "AlvinSatterfield",
